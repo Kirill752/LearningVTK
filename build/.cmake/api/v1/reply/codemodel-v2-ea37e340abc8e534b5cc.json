@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tutorial_Step1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tutorial_Step1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tutorial_Step1-Debug-1adfef645b42d09b9d3f.json",
+					"name" : "Tutorial_Step1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tutorial_Step2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tutorial_Step2-Debug-a8f1fcd4bb86c0ba4eb5.json",
+					"name" : "Tutorial_Step2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tutorial_Step3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tutorial_Step3-Debug-98b6fd76627267dd0755.json",
+					"name" : "Tutorial_Step3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tutorial_Step4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tutorial_Step4-Debug-f051db3d7ab5e21dd200.json",
+					"name" : "Tutorial_Step4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tutorial_Step5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tutorial_Step5-Debug-5c24ccbed6683658d2cd.json",
+					"name" : "Tutorial_Step5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tutorial_Step6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tutorial_Step6-Debug-5f4b4069a3b8ed3fe8de.json",
+					"name" : "Tutorial_Step6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/build",
+		"source" : "/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/Tutorial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
