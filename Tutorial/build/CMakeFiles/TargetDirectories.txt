@@ -1,0 +1,8 @@
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/Tutorial_Step1/build/CMakeFiles/Tutorial_Step1.dir
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/Tutorial_Step1/build/CMakeFiles/Tutorial_Step2.dir
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/Tutorial_Step1/build/CMakeFiles/Tutorial_Step3.dir
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/Tutorial_Step1/build/CMakeFiles/Tutorial_Step4.dir
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/Tutorial_Step1/build/CMakeFiles/Tutorial_Step5.dir
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/Tutorial_Step1/build/CMakeFiles/Tutorial_Step6.dir
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/Tutorial_Step1/build/CMakeFiles/edit_cache.dir
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/Tutorial_Step1/build/CMakeFiles/rebuild_cache.dir
