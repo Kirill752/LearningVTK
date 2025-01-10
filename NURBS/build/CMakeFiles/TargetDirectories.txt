@@ -1,0 +1,3 @@
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/NURBS/build/CMakeFiles/lines.dir
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/NURBS/build/CMakeFiles/edit_cache.dir
+/home/kirill/Download_Libs/VTK-9.4.0/LearningVTK/NURBS/build/CMakeFiles/rebuild_cache.dir
